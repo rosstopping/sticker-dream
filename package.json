@@ -14,7 +14,7 @@
   "packageManager": "pnpm@9.10.0+sha1.216899f511c8dfde183c7cb50b69009c779534a8",
   "dependencies": {
     "@google/genai": "^1.29.0",
-    "@hono/node-server": "^1.14.3",
+    "@hono/node-server": "^2.1.6",
     "@huggingface/transformers": "^3.7.6",
     "@types/node": "^24.10.0",
     "hono": "^4.7.11",
